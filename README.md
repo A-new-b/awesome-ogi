@@ -29,10 +29,10 @@ Optical Gas Imaging (OGI) has become a key tool in gas leak detection and indust
             
 
 
-    - [Limit](#limit)
-        - [Are Optical Gas Imaging Technologies Effective For Methane Leak Detection?](#are-optical-gas-imaging-technologies-effective-for-methane-leak-detection2016)
-        - [Detection limits of optical gas imagers as a function of temperature differential and distance](#detection-limits-of-optical-gas-imagers-as-a-function-of-temperature-differential-and-distance2019)
-        - [Detection Limits of Optical Gas Imaging for Natural Gas Leak Detection in Realistic Controlled Conditions](#detection-limits-of-optical-gas-imaging-for-natural-gas-leak-detection-in-realistic-controlled-conditions2020)
+        - [Limit](#limit)
+            - [Are Optical Gas Imaging Technologies Effective For Methane Leak Detection?](#are-optical-gas-imaging-technologies-effective-for-methane-leak-detection2016)
+            - [Detection limits of optical gas imagers as a function of temperature differential and distance](#detection-limits-of-optical-gas-imagers-as-a-function-of-temperature-differential-and-distance2019)
+            - [Detection Limits of Optical Gas Imaging for Natural Gas Leak Detection in Realistic Controlled Conditions](#detection-limits-of-optical-gas-imaging-for-natural-gas-leak-detection-in-realistic-controlled-conditions2020)
 
 
 ## HardWare & System
