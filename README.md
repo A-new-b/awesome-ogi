@@ -71,6 +71,17 @@ This study presents an effective method for gas-leak area detection and gas iden
 - code: *not available*
 - datasets: *not available*
 
+### Chemical Gas Telemetry System Based on Multispectral Infrared Imaging (2023)
+- overview:<br>
+This paper explores a gas telemetry system based on multispectral infrared imaging, aiming to improve the precision, efficiency, and real-time capabilities of gas detection. 
+    - From a system perspective, this multispectral infrared imaging gas telemetry system demonstrates strong capabilities in real-time gas detection, long-distance monitoring, and multi-gas identification. The system is able to detect gases such as NH₃, SF₆, CH₄, SO₂, and DMMP from distances exceeding 1 km showcases its potential for long-range monitoring. 
+    - From a hardware perspective, the system is well-designed with an uncooled focal plane detector, a rotating filter wheel, and a data acquisition unit. The resolution of 640×512 and a working band of 6.5–15 µm provide sufficient sensitivity for gas imaging.
+
+- [paper](https://www.mdpi.com/2305-6304/11/1/83)
+- code: *not available*
+- datasets: *not available*
+
+
 ### Detection and tracking of gas plumes in LWIR hyperspectral video sequence data(2024)
 
 - overview:<br>
